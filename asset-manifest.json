@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/app.git/static/css/main.b67c2d24.css",
+    "main.js": "/app.git/static/js/main.93561f9b.js",
+    "index.html": "/app.git/index.html",
+    "static/media/delete.svg": "/app.git/static/media/delete.331149da222541bc87c25bf8d775a070.svg",
+    "static/media/check.svg": "/app.git/static/media/check.fa4fb594b16385306a04b9c87c0feb55.svg",
+    "main.b67c2d24.css.map": "/app.git/static/css/main.b67c2d24.css.map",
+    "main.93561f9b.js.map": "/app.git/static/js/main.93561f9b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b67c2d24.css",
+    "static/js/main.93561f9b.js"
+  ]
+}
